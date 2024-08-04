@@ -43,4 +43,4 @@ At Text Utils, we are dedicated to providing simple yet powerful tools to stream
 
 Our website supports both dark and light modes to ensure a comfortable reading experience. Switch between modes based on your preference or lighting conditions to reduce eye strain and enhance visibility.
 
-![Main Page](./src/Images/DarkMode.png);
+![Main Page](./src/Images/DarkMode.png)
